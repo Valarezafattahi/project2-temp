@@ -1,0 +1,13 @@
+#title {
+    font-family: 'Gamja Flower', cursive;
+    background-color: rgb(211, 202, 200)
+}
+
+h1 {
+    font-size: 4rem;
+    
+}
+
+body {
+    background-image: url("img/bg.png")
+}
